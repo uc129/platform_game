@@ -26,7 +26,9 @@ This is a simple 2D platformer game built using HTML5 Canvas and JavaScript. The
 
 ## Demo
 
-You can play the demo of this game by visiting [the live demo link](#https://platform-game-weld.vercel.app/) 
+You can play the demo of this game by visiting [the live demo link]
+(#https://platform-game-weld.vercel.app/) 
+(https://platform-game-weld.vercel.app/)
 
 
 
