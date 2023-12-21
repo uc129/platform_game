@@ -89,13 +89,15 @@ const player1 = new Player({
 
 
 });
-// const player2 = new Player({ x: canvas.width - 100, y: 0 });
+
 
 
 const background = new Sprite({
     position: { x: 0, y: 0 },
     imgSrc: './img/background.png',
 })
+
+
 
 const keys = {
     d: {
@@ -139,7 +141,10 @@ window.addEventListener('keyup', (e) => {
 
 
 function animate() {
-    window.requestAnimationFrame(animate);
+    if (canvas.width > 0) {
+        window.requestAnimationFrame(animate);
+    }
+    else return
 
     // ctx.fillStyle = 'white';
     // ctx.fillRect(0, 0, canvas.width, canvas.height);

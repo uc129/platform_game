@@ -25,6 +25,7 @@ class Sprite {
     }
 
     draw() {
+
         if (!this.image) return;
 
         const cropBox = {
