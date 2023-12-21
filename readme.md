@@ -6,6 +6,11 @@
 
 This is a simple 2D platformer game built using HTML5 Canvas and JavaScript. The game features a player character that can move, jump, and interact with various platforms and ground blocks. The game also includes a basic camera system to follow the player's movements within the game world.
 
+
+
+
+
+
 ## Table of Contents
 
 - [Demo](#demo)
@@ -19,9 +24,10 @@ This is a simple 2D platformer game built using HTML5 Canvas and JavaScript. The
 
 ## Demo
 
-You can play the demo of this game by visiting [the live demo link](#) 
+You can play the demo of this game by visiting [the live demo link](#https://platform-game-weld.vercel.app/) 
 
-![Game Demo](screenshot.png)
+
+
 
 ## Features
 
@@ -35,9 +41,6 @@ You can play the demo of this game by visiting [the live demo link](#)
 
 1. Clone or download this repository to your local machine:
 
-   ```
-   git clone https://github.com/yourusername/2d-platformer-game.git
-   ```
 
 2. Open the `index.html` file in your web browser to play the game.
 
@@ -65,9 +68,7 @@ You can customize various aspects of the game by modifying the code:
 
 Contributions to this project are welcome! If you find any issues or have ideas for improvements, please open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
