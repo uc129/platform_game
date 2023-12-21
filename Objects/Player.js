@@ -1,7 +1,7 @@
-import { GRAVITY, scaleFactor } from "./main";
-import { ctx, canvas } from "./main";
-import { horizontalCollision, platformCollision, verticalCollision } from "./collisions";
-import collision from "./collisions";
+import { GRAVITY, scaleFactor } from "../main";
+import { ctx, canvas } from "../main";
+import { horizontalCollision, platformCollision, verticalCollision } from "../collisions";
+import collision from "../collisions";
 import Sprite from "./Sprite";
 
 // import { groundBlocks } from "./collisionBlocks";

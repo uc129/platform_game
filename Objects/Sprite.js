@@ -1,4 +1,4 @@
-import { ctx } from './main.js';
+import { ctx } from '../main.js';
 
 class Sprite {
 

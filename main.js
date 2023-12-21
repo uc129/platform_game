@@ -1,9 +1,9 @@
 import './style.css'
-import Player from './Player.js'
-import Sprite from './Sprite.js'
+import Player from './Objects/Player.js'
+import Sprite from './Objects/Sprite.js'
 
 
-import { groundBlocks, platformBlocks, lights } from './collisionBlocks.js'
+import { groundBlocks, platformBlocks, lights } from './Objects/collisionBlocks.js'
 
 
 

@@ -1,4 +1,4 @@
-import layers from './map/map_layers.js'
+import layers from '../map/map_layers.js'
 import Ground from './Ground.js'
 import Light from './Lights.js'
 import Platform from './Platform.js'
